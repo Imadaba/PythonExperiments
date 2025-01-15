@@ -22,7 +22,7 @@ yangConfig = {
      "ietf-ip:ipv4": {
          "address": [
              {
-                 "ip": "10.1.0.1",
+                 "ip": "10.1.0.101",
                  "netmask": "255.255.255.0"
              }
          ]
